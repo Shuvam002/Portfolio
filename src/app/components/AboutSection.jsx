@@ -36,8 +36,8 @@ const TAB_DATA = [
         id: "certifications",
         content: (
             <ul className="list-disc pl-2">
-                <li><Link href={"https://www.credly.com/badges/1f817a0b-d14f-435b-ba06-20e0de6b19e2/public_url"} className='hover:text-blue-400 border-b border-purple-400'>Google Cybersecurity Certificate</Link></li>
-                <li><Link href={"https://ude.my/UC-620caa6f-bcab-42bc-8709-e299d5ccc466"} className='hover:text-blue-400 border-b border-purple-400'>Database Management System</Link></li>
+                <li><Link href={"https://www.credly.com/badges/1f817a0b-d14f-435b-ba06-20e0de6b19e2/public_url"} className="hover:text-blue-400 border-b border-purple-400">Google Cybersecurity Certificate</Link></li>
+                <li><Link href={"https://ude.my/UC-620caa6f-bcab-42bc-8709-e299d5ccc466"} className="hover:text-blue-400 border-b border-purple-400">Database Management System</Link></li>
             </ul>
         ),
     },
@@ -56,7 +56,7 @@ const AboutSection = () => {
     return (
         <section className="text-white" id="about">
             <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16">
-                <Image src="/images/about.png" width={500} height={500} className='flex relative' />
+                <Image src="/images/about.png" width={500} height={500} className='flex relative' alt='' />
                 <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
                     <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
                     <p className="text-base lg:text-lg">
