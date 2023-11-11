@@ -29,7 +29,7 @@ const HeroSection = () => {
                         repeat={Infinity}
                     />
                 </h1>
-                <p className='text-[#ADB7BE] text-base sm:text-lg lg:text-xl mb-6'>Blah</p>
+                <p className='text-[#ADB7BE] text-base sm:text-lg lg:text-2xl mb-6 lg:mr-4 lg:pr-12 bg-[#121212]'><span>{"Everyday is a new opportunity to learn something new!"}</span></p>
                 <div className='relative'>
                     <button className='px-6 py-3 sm:w-fit w-full rounded-full mr-4 bg-gradient-to-br from-red-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-white mb-4' ><span><Link href={"#contact"}>Hire Me!</Link></span></button>
                     <button className='px-1 py-1 sm:w-fit w-full rounded-full bg-gradient-to-br from-red-500 via-purple-500 to-pink-500  hover:bg-slate-800'>
