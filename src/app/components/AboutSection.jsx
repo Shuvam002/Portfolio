@@ -62,7 +62,7 @@ const AboutSection = () => {
                     <p className="text-base lg:text-lg">
                         I am a tech enthusiast with a passion for creating
                         interactive and responsive web applications as well as creating softwares and mobile applications. Currently,
-                        I'm working with Workday Extend and I'm a certified workday pro workday extend services developer. I have experience
+                        I am working with Workday Extend and I am a certified workday pro workday extend services developer. I have experience
                         working with JavaScript, React, Redux, Node.js, Express, MySQL, MongoDB,
                         Sequelize, HTML, CSS, C++, Python and Git. I am a quick learner and I am always
                         looking to expand my knowledge and skill set. I am a team player and
