@@ -9,6 +9,7 @@ const TAB_DATA = [
         id: "skills",
         content: (
             <ul className="list-disc pl-2">
+                <li>Workday Extend</li>
                 <li>Node.js</li>
                 <li>Express</li>
                 <li>MySQL</li>
@@ -60,7 +61,8 @@ const AboutSection = () => {
                     <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
                     <p className="text-base lg:text-lg">
                         I am a tech enthusiast with a passion for creating
-                        interactive and responsive web applications as well as creating softwares and mobile applications. I have experience
+                        interactive and responsive web applications as well as creating softwares and mobile applications. Currently,
+                        I'm working with Workday Extend and I'm a certified workday pro workday extend services developer. I have experience
                         working with JavaScript, React, Redux, Node.js, Express, MySQL, MongoDB,
                         Sequelize, HTML, CSS, C++, Python and Git. I am a quick learner and I am always
                         looking to expand my knowledge and skill set. I am a team player and
