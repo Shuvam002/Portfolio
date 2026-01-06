@@ -36,6 +36,7 @@ const TAB_DATA = [
         id: "certifications",
         content: (
             <ul className="list-disc pl-2">
+                <li><Link href={"https://www.credly.com/badges/1b974da6-414b-436e-97a2-bedfd1c8094d/public_url"} className="hover:text-blue-400 border-b border-purple-400">Workday Pro Workday Extend Services Certification</Link></li>
                 <li><Link href={"https://www.credly.com/badges/1f817a0b-d14f-435b-ba06-20e0de6b19e2/public_url"} className="hover:text-blue-400 border-b border-purple-400">Google Cybersecurity Certificate</Link></li>
                 <li><Link href={"https://ude.my/UC-620caa6f-bcab-42bc-8709-e299d5ccc466"} className="hover:text-blue-400 border-b border-purple-400">Database Management System</Link></li>
             </ul>
